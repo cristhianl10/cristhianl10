@@ -1,6 +1,3 @@
-<!-- Banner opcional -->
-<!-- Puedes agregar uno más adelante -->
-
 <h1 align="center">¡Hola! 👋 Soy Cristhian Loor</h1>
 
 <h3 align="center">
@@ -21,7 +18,6 @@ Soy estudiante de **Ingeniería de Software** en la Universidad de Guayaquil.
 
 Apasionado del software libre y proyectos open source.
 Convencido de que el mejor software empieza entendiendo a las personas, no escribiendo código.
-Bici, fútbol, código y lluvia.
 ---
 
 ---
@@ -59,7 +55,7 @@ Bici, fútbol, código y lluvia.
 
 ---
 
-# 🌟 Proyectos
+#  Proyectos
 
 ### 📦 StockFlow
 
@@ -99,9 +95,9 @@ Bici, fútbol, código y lluvia.
 
 # 💭 Un poco sobre mí
 
-Fuera del código también disfruto:
+Personalmente me gusta:
 
-- 📚 Leer sobre tecnología, filosofía y psicología.
+- 📚 Leer sobre softwar, filosofía y psicología.
 - ⚽ Fútbol, UFC, Bici y libros.
 - 🐧 Explorar Linux y nuevas herramientas con IA.
 - ☕ Probar nuevos stacks tecnológicos con proyectos. Aprender practicando.
@@ -122,4 +118,4 @@ https://portfolio-cristhian-loor.vercel.app/
 
 https://linkedin.com/in/cristhian-loor
 
-⭐ Siempre abierto a colaborar, aprender y construir proyectos interesantes.
+⭐ Aprender, colaborar y construir.
