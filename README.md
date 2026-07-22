@@ -76,7 +76,7 @@ Convencido de que el mejor software empieza entendiendo a las personas, no escri
 
 ---
 
-# 🤝 Contact
+# Contact
 
 📧 **Email**
 
