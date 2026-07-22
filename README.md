@@ -20,17 +20,9 @@ Software Engineering Student 🇪🇨 <br>
 Soy estudiante de **Ingeniería de Software** en la Universidad de Guayaquil.
 
 Apasionado del software libre y proyectos open source.
-Creyenete que el software no empieza en el código, sino en el usuario.
+Convencido de que el mejor software empieza entendiendo a las personas, no escribiendo código.
 Bici, fútbol, código y lluvia.
 ---
-
-# 🚀 Actualmente
-
-- 📱 Desarrollando **StockFlow**, una app de inventario para pequeño negocio.
-- ☕ Profundizando en **Java** y **Spring Boot**.
-- 🤖 Explorando **LLMs**, IA y APIs de inteligencia artificial.
-- 🐧 Utilizando Linux como entorno principal de desarrollo.
-- 📚 Aprendiendo continuamente sobre arquitectura y buenas prácticas.
 
 ---
 
@@ -42,6 +34,9 @@ Bici, fútbol, código y lluvia.
 ![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
 
 ## Mobile
 
@@ -64,7 +59,7 @@ Bici, fútbol, código y lluvia.
 
 ---
 
-# 🌟 Proyectos Destacados
+# 🌟 Proyectos
 
 ### 📦 StockFlow
 
@@ -88,36 +83,9 @@ Bici, fútbol, código y lluvia.
 
 > Club de lectura digital desarrollado con Java, JSP/Servlets y PostgreSQL.
 
----
-
-# 🎯 Lo que me interesa
-
-- Arquitectura de Software
-- Clean Code
-- Backend Development
-- UX/UI
-- Inteligencia Artificial
-- Linux
-- Open Source
-- Mobile Development
 
 ---
 
-# 📖 Actualmente aprendiendo
-
-```text
-☕ Java avanzado
-🌱 Spring Boot
-
-🤖 IA & LLM APIs
-
-📊 Data Science
-🐍 FastAPI
-
-📐 Arquitectura de Software
-```
-
----
 
 # 📈 GitHub Stats
 
@@ -134,10 +102,9 @@ Bici, fútbol, código y lluvia.
 Fuera del código también disfruto:
 
 - 📚 Leer sobre tecnología, filosofía y psicología.
-- ⚽ Ver fútbol y UFC.
-- 🐧 Explorar Linux y nuevas herramientas.
-- 🤖 Mantenerme al día con los avances en IA.
-- ☕ Convertir ideas en proyectos reales.
+- ⚽ Fútbol, UFC, Bici y libros.
+- 🐧 Explorar Linux y nuevas herramientas con IA.
+- ☕ Probar nuevos stacks tecnológicos con proyectos. Aprender practicando.
 
 ---
 
