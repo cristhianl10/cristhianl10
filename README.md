@@ -53,32 +53,6 @@ Convencido de que el mejor software empieza entendiendo a las personas, no escri
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
 
----
-
-#  Proyectos
-
-### 📦 StockFlow
-
-> SaaS de inventario multiempresa desarrollado con Flutter, Supabase y PostgreSQL.
-
----
-
-### 🏪 POS System
-
-> Sistema POS construido con Clean Architecture, Entity Framework y SQL Server.
-
----
-
-### 🎨 Sublirium
-
-> Mi emprendimiento de sublimación, donde desarrollé una aplicación móvil y un catálogo web para gestionar productos y pedidos.
-
----
-
-### 📚 Literapp
-
-> Club de lectura digital desarrollado con Java, JSP/Servlets y PostgreSQL.
-
 
 ---
 
