@@ -31,7 +31,14 @@ Convencido de que el mejor software empieza entendiendo a las personas, no escri
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+
+### 🎨 Frontend
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 
 ## Mobile
@@ -65,16 +72,7 @@ Convencido de que el mejor software empieza entendiendo a las personas, no escri
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cristhianl10&layout=compact&theme=tokyonight)
 
----
 
-# 💭 Un poco sobre mí
-
-Personalmente me gusta:
-
-- 📚 Leer sobre softwar, filosofía y psicología.
-- ⚽ Fútbol, UFC, Bici y libros.
-- 🐧 Explorar Linux y nuevas herramientas con IA.
-- ☕ Probar nuevos stacks tecnológicos con proyectos. Aprender practicando.
 
 ---
 
