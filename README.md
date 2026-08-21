@@ -16,8 +16,7 @@ Software Engineering Student 🇪🇨 <br>
 
 Soy estudiante de **Ingeniería de Software** en la Universidad de Guayaquil.
 
-Apasionado del software libre y proyectos open source.
-Convencido de que el mejor software empieza entendiendo a las personas, no escribiendo código.
+Apasionado del software libre.
 ---
 
 ---
