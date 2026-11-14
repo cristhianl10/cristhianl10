@@ -3,14 +3,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Cristhian%20Loor&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%E2%80%A2%20Java%20%7C%20.NET%20%7C%20React%20%7C%20Cloud&descAlignY=60&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Software+Engineering+Student+%40+Universidad+de+Guayaquil;Backend+solid.+Frontend+sharp.;REST+APIs+%E2%80%A2+Clean+Architecture+%E2%80%A2+Cloud+%E2%80%A2+AI+Integration;Finalist+%E2%80%94+Noche+Cero+Hackathon" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=1000&height=40&lines=Software+Engineering+Student+%40+Universidad+de+Guayaquil;Backend+solid.+Frontend+sharp.;REST+APIs+%E2%80%A2+Clean+Architecture+%E2%80%A2+Cloud+%E2%80%A2+AI+Integration;Finalist+%E2%80%94+Noche+Cero+Hackathon" alt="Typing SVG" />
 </a>
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-cristhian-loor.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristhian-loor/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_CORREO_AQUI)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cristhian.loor05@outlook.com)
 
 ![Profile views](https://komarev.com/ghpvc/?username=cristhianl10&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS)
 
