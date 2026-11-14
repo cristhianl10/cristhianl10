@@ -1,104 +1,150 @@
-<h1 align="center">Hi 👋, I'm Cristhian Loor</h1>
+<div align="center">
 
-<h3 align="center">
-Software Engineering • Software Developer
-</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Cristhian%20Loor&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%E2%80%A2%20Java%20%7C%20.NET%20%7C%20React&descAlignY=60&descSize=20" width="100%"/>
 
-<p align="center">
-  Java • Spring Boot • .NET • React • AI Integration
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Software+Engineering+Student+%40+Universidad+de+Guayaquil;Backend+solid.+Frontend+sharp.;REST+APIs+%E2%80%A2+Clean+Architecture+%E2%80%A2+AI+Integration;Finalist+%E2%80%94+Noche+Cero+Hackathon" alt="Typing SVG" />
+</a>
 
-<p align="center">
-  <a href="https://portfolio-cristhian-loor.vercel.app/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/cristhian-loor/">LinkedIn</a> •
-  <a href="mailto:cristhian.loor25@outlook.com">Email</a>
-</p>
+<br/>
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-cristhian-loor.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristhian-loor/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_CORREO_AQUI)
 
-## 👨‍💻 About Me
+![Profile views](https://komarev.com/ghpvc/?username=cristhianl10&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS)
 
-I'm a Software Engineering student at the University of Guayaquil, focused on
-building clean, maintainable and scalable software.
-
-My main interests are backend development, REST API design, software architecture
-and the integration of AI into modern applications.
-
-I also enjoy working across the development process, from backend and databases
-to frontend interfaces and UX/UI design.
-
-Open-source enthusiast and Linux user.
+</div>
 
 ---
 
-## 🛠️ Core Stack
+## About
 
-### Backend
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Databases
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+```text
+const cristhian = {
+  role:      "Fullstack Developer (Junior)",
+  location:  "Guayaquil, Ecuador",
+  studying:  "Software Engineering, 7th semester, Universidad de Guayaquil",
+  working:   "Software Development Intern @ Global Hitss Ecuador",
+  building:  ["Full-stack systems", "REST APIs", "AI-powered features"],
+  strengths: ["Clean Architecture", "SOLID", "API design", "UX/UI with Figma"],
+  openTo:    "Junior fullstack roles & internships",
+};
+```
 
 ---
 
-## 🧠 Software Engineering
+## Highlights
 
-`REST APIs` • `Clean Architecture` • `SOLID` • `Clean Code` • `Software Design`
-
----
-
-## 🤖 AI
-
-Interested in integrating AI capabilities into software applications through
-APIs, intelligent features and AI-powered workflows.
+| | |
+|---|---|
+| **Noche Cero Hackathon** | Finalist with team ProxyEndpoint: SEIR epidemic simulator |
+| **Global Hitss Ecuador** | Intern since Sep 2026: Java/Spring Boot microservices, Angular, CI/CD (GitLab, Jenkins, SonarQube, OpenShift), REST API protection with Apigee |
+| **4 deployed full-stack demos** | Real APIs, real databases, live links below |
 
 ---
 
-## 🎨 UX/UI
+## Tech Stack
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<div align="center">
 
-`UX/UI Design` • `Prototyping` • `Design Thinking` • `Nielsen Heuristics`
+**Backend**
 
----
+![Backend](https://skillicons.dev/icons?i=java,spring,dotnet,cs&theme=dark)
 
-## ⚙️ Tools
+**Frontend**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Frontend](https://skillicons.dev/icons?i=react,angular,ts,js,html,css,flutter&theme=dark)
 
----
+**Databases & Cloud**
 
-## 📊 GitHub
+![DB](https://skillicons.dev/icons?i=postgres,mysql,supabase,oracle,aws&theme=dark)
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=cristhianl10&show_icons=true&theme=tokyonight"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristhianl10&layout=compact&theme=tokyonight"
-    height="165"
-  />
-</p>
+**Tools & DevOps**
+
+![Tools](https://skillicons.dev/icons?i=git,github,gitlab,jenkins,linux,vercel,figma&theme=dark)
+
+</div>
 
 ---
 
-<p align="center">
-  <a href="mailto:cristhian.loor25@outlook.com">Email</a> •
-  <a href="https://portfolio-cristhian-loor.vercel.app/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/cristhian-loor/">LinkedIn</a>
-</p>
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### PayFlow
+Full-stack payments app with a deployed API and frontend.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-38BDF8?style=flat-square&logo=vercel&logoColor=black)](https://payflow-alpha-brown.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### iBatch
+Batch CSV processing of financial transactions at scale.
+
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-38BDF8?style=flat-square&logo=vercel&logoColor=black)](https://i-batch.vercel.app)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Banco Horizonte: Claims Management
+Financial claims system with a full lifecycle workflow.
+
+![.NET](https://img.shields.io/badge/-.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular_20-DD0031?style=flat-square&logo=angular&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-38BDF8?style=flat-square&logo=vercel&logoColor=black)](https://banco-horizonte-reclamos.vercel.app)
+
+</td>
+<td width="50%" valign="top">
+
+### Noche Cero: ProxyEndpoint
+Hackathon finalist. SEIR epidemic simulator.
+
+![Finalist](https://img.shields.io/badge/-Finalist-F59E0B?style=flat-square)
+[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Freddys21333/proxyendpoint-Noche-Cero)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![All repositories](https://img.shields.io/badge/All_repositories-2c5364?style=for-the-badge&logo=github)](https://github.com/cristhianl10?tab=repositories)
+
+</div>
+
+---
+
+## Focus Areas
+
+<table>
+<tr>
+<td align="center" width="25%"><b>Backend</b><br/><sub>REST APIs, Clean Architecture, Entity Framework, Spring Boot</sub></td>
+<td align="center" width="25%"><b>Frontend</b><br/><sub>React, Angular, TypeScript, responsive UI</sub></td>
+<td align="center" width="25%"><b>AI Integration</b><br/><sub>APIs, intelligent features, AI-powered workflows</sub></td>
+<td align="center" width="25%"><b>UX/UI</b><br/><sub>Figma, prototyping, Design Thinking, Nielsen heuristics</sub></td>
+</tr>
+</table>
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=cristhianl10&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristhianl10&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+
+<img src="https://streak-stats.demolab.com?user=cristhianl10&theme=tokyonight&hide_border=true&background=0d1117" height="170" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
