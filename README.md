@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Cristhian%20Loor&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%E2%80%A2%20Java%20%7C%20.NET%20%7C%20React&descAlignY=60&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Cristhian%20Loor&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Fullstack%20Developer%20%E2%80%A2%20Java%20%7C%20.NET%20%7C%20React%20%7C%20Cloud&descAlignY=60&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Software+Engineering+Student+%40+Universidad+de+Guayaquil;Backend+solid.+Frontend+sharp.;REST+APIs+%E2%80%A2+Clean+Architecture+%E2%80%A2+AI+Integration;Finalist+%E2%80%94+Noche+Cero+Hackathon" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Software+Engineering+Student+%40+Universidad+de+Guayaquil;Backend+solid.+Frontend+sharp.;REST+APIs+%E2%80%A2+Clean+Architecture+%E2%80%A2+Cloud+%E2%80%A2+AI+Integration;Finalist+%E2%80%94+Noche+Cero+Hackathon" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -27,7 +27,7 @@ const cristhian = {
   studying:  "Software Engineering, 7th semester, Universidad de Guayaquil",
   working:   "Software Development Intern @ Global Hitss Ecuador",
   building:  ["Full-stack systems", "REST APIs", "AI-powered features"],
-  strengths: ["Clean Architecture", "SOLID", "API design", "UX/UI with Figma"],
+  strengths: ["Clean Architecture", "SOLID", "API design", "Cloud", "UX/UI with Figma"],
   openTo:    "Junior fullstack roles & internships",
 };
 ```
@@ -127,10 +127,11 @@ Hackathon finalist. SEIR epidemic simulator.
 
 <table>
 <tr>
-<td align="center" width="25%"><b>Backend</b><br/><sub>REST APIs, Clean Architecture, Entity Framework, Spring Boot</sub></td>
-<td align="center" width="25%"><b>Frontend</b><br/><sub>React, Angular, TypeScript, responsive UI</sub></td>
-<td align="center" width="25%"><b>AI Integration</b><br/><sub>APIs, intelligent features, AI-powered workflows</sub></td>
-<td align="center" width="25%"><b>UX/UI</b><br/><sub>Figma, prototyping, Design Thinking, Nielsen heuristics</sub></td>
+<td align="center" width="20%"><b>Backend</b><br/><sub>REST APIs, Clean Architecture, Entity Framework, Spring Boot</sub></td>
+<td align="center" width="20%"><b>Frontend</b><br/><sub>React, Angular, TypeScript, responsive UI</sub></td>
+<td align="center" width="20%"><b>Cloud</b><br/><sub>AWS, Supabase, Vercel, CI/CD, OpenShift</sub></td>
+<td align="center" width="20%"><b>AI Integration</b><br/><sub>APIs, intelligent features, AI-powered workflows</sub></td>
+<td align="center" width="20%"><b>UX/UI</b><br/><sub>Figma, prototyping, Design Thinking, Nielsen heuristics</sub></td>
 </tr>
 </table>
 
