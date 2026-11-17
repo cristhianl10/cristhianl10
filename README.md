@@ -22,7 +22,7 @@
 
 ```text
 const cristhian = {
-  role:      "Fullstack Developer (Junior)",
+  role:      "Fullstack Developer",
   location:  "Guayaquil, Ecuador",
   studying:  "Software Engineering, 7th semester, Universidad de Guayaquil",
   working:   "Software Development Intern @ Global Hitss Ecuador",
